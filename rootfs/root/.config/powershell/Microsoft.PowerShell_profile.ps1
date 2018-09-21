@@ -1,4 +1,4 @@
-$psdir="/data/modules"
+$psdir="/data/env"
 
 Get-ChildItem "${psdir}\*.ps1" | %{.$_}
 
