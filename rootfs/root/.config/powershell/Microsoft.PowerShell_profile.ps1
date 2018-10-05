@@ -1,6 +1,6 @@
 
-Write-Host "Add /data/modules to $Env:PSModulePath"
-$Env:PSModulePath=$Env:PSModulePath+":/data/modules"
+#Write-Host "Add /data/modules to $Env:PSModulePath"
+#$Env:PSModulePath=$Env:PSModulePath+":/data/modules"
 
 
 $psdir="/data/env"
